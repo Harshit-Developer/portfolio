@@ -1,0 +1,27 @@
+.projectWrapper{
+    background-color: #9fa4c4;
+    background-image: linear-gradient(315deg, #9fa4c4 0%, #9e768f 74%);
+    
+  }
+.accordian-main {
+    cursor: pointer;
+    display: inline-block;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: rebeccapurple;
+    border: none !important;
+    border-radius: 4px !important;
+  
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .list-styles {
+    list-style-type: circle;
+  }
+  
+  .img-icon {
+   width: 60px !important;
+  }
+  

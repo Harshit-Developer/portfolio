@@ -1,0 +1,16 @@
+.skillWrapper{
+    background-image: linear-gradient(to right,#6782B4,#B1BFD8
+    );
+}
+.progress-text{
+    font-size: 1.2rem !important;
+    color:turquoise !important;
+    font-weight: bolder;
+
+}
+.skills{
+    font-size: 3rem !important;
+    color:#2B2560 !important;
+    opacity: 0.9;
+    text-align: center;
+}

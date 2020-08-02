@@ -1,0 +1,24 @@
+.aboutWrapper{
+    background-image: url("../../assets/img/background/Pixabay.jpg");
+    width:100% !important;
+}
+.about{
+    font-size: 3rem !important;
+    color:#2B2560 !important;
+    opacity: 0.9;
+}
+.profile{
+    max-width: 18em;
+    margin-bottom: 2%;
+}
+.para{
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+
+@media screen and (max-width:400px){
+    .profile{
+        max-width: 18em;
+    }
+}

@@ -1,0 +1,15 @@
+.contact-jumbotron {
+    background-image: url("../../assets/img/background/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+.contactWrapper{
+    background-color: #bdd4e7;
+background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+
+}
+.contact{
+    font-size: 3rem !important;
+    color:#2B2560 !important;
+    opacity: 0.9;
+}

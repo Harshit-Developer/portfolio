@@ -1,0 +1,17 @@
+.position{
+    position: relative !important;
+}
+.nav-link{
+    color:tan !important;
+    font-size: 1.25rem !important;
+    padding:10px !important;
+    margin-right: 20px;
+}
+.text-color{
+    color:tan !important;
+    text-decoration: none;
+}
+.text-color:hover{
+    color:tan !important;
+    text-decoration: none;
+}

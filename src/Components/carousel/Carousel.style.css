@@ -1,0 +1,63 @@
+.carausel{
+    background: black;
+   overflow: hidden;
+}
+.img{
+   height:90vh !important;
+   object-fit: cover;
+  opacity: 0.4;
+}
+.caption{
+   position: absolute;
+   bottom:40%;
+}
+.colorText{
+   color:#00feca;
+}
+.fontLarge{
+   font-size:60px;
+   display:inline-block;
+   margin-bottom:0px;
+}
+.fontSmall{
+font-size:30px;
+padding:0px;
+margin-bottom:0px;
+}
+@media screen and (max-width:1200px)
+{
+   .caption{
+   position: absolute;
+   bottom:30%;
+   }
+
+   .fontLarge{
+   font-size:40px;
+   display:inline-block;
+   margin-bottom:0px;
+    }
+.fontSmall{
+font-size:25px;
+padding:0px;
+margin-bottom:0px;
+}
+
+}
+@media screen and (max-width:600px)
+{
+    .caption{
+   position: absolute;
+   bottom:20%;
+   }
+   .fontLarge{
+   font-size:35px;
+   display:inline-block;
+   margin-bottom:0px;
+    }
+.fontSmall{
+font-size:20px;
+padding:0px;
+margin-bottom:0px;
+}
+
+}
